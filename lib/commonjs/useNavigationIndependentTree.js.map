@@ -1,0 +1,1 @@
+{"version":3,"names":["useNavigationIndependentTree","React","useContext","NavigationIndependentTreeContext"],"sourceRoot":"..\\..\\src","sources":["useNavigationIndependentTree.tsx"],"mappings":";;;;;;AAAA;AAEA;AAAsF;AAAA;AAE/E,SAASA,4BAA4B,GAAG;EAC7C,OAAOC,KAAK,CAACC,UAAU,CAACC,kEAAgC,CAAC;AAC3D"}
