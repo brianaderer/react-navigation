@@ -1,0 +1,1 @@
+{"version":3,"names":["LocaleDirContext","React","createContext","displayName"],"sourceRoot":"..\\..\\src","sources":["LocaleDirContext.tsx"],"mappings":";;;;;;AAAA;AAA+B;AAAA;AAIxB,MAAMA,gBAAgB,gBAAGC,KAAK,CAACC,aAAa,CAAkB,KAAK,CAAC;AAAC;AAE5EF,gBAAgB,CAACG,WAAW,GAAG,kBAAkB"}
